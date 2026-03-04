@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "titulo": "Ropa ",
+        "motivo": "Compra",
+        "fecha": "2026-03-03",
+        "monto": "120"
+    },
+    {
+        "id": 2,
+        "titulo": "Comida",
+        "motivo": "Pollo a la Brasa",
+        "fecha": "2026-02-03",
+        "monto": "80"
+    }
+]
